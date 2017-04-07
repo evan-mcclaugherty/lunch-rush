@@ -1,12 +1,12 @@
 import firebase from 'firebase';
 
 var config = {
-  apiKey: "AIzaSyBOhhCBUaS0NEDJ5jidhcXKwWunePuvy1U",
-  authDomain: "deleteme-a41d6.firebaseapp.com",
-  databaseURL: "https://deleteme-a41d6.firebaseio.com",
-  projectId: "deleteme-a41d6",
-  storageBucket: "deleteme-a41d6.appspot.com",
-  messagingSenderId: "448688906716"
+  apiKey: "AIzaSyDLlBIYqhdWvlwYZY1sZsIwiBJvqo6A1B0",
+  authDomain: "reactfirebase-deb93.firebaseapp.com",
+  databaseURL: "https://reactfirebase-deb93.firebaseio.com",
+  projectId: "reactfirebase-deb93",
+  storageBucket: "reactfirebase-deb93.appspot.com",
+  messagingSenderId: "411225362050"
 };
 firebase.initializeApp(config);
 
