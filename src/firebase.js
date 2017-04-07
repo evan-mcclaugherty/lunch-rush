@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
-const config = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  storageBucket: '',
-  messagingSenderId: ''
+var config = {
+  apiKey: "AIzaSyBOhhCBUaS0NEDJ5jidhcXKwWunePuvy1U",
+  authDomain: "deleteme-a41d6.firebaseapp.com",
+  databaseURL: "https://deleteme-a41d6.firebaseio.com",
+  projectId: "deleteme-a41d6",
+  storageBucket: "deleteme-a41d6.appspot.com",
+  messagingSenderId: "448688906716"
 };
-
 firebase.initializeApp(config);
 
 export default firebase;
